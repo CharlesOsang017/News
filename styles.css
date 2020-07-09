@@ -2,3 +2,11 @@ img{
     width: 550px;
     height: 550px;
 }
+.introduction{
+    font-size: 25px;
+}
+h1{
+    display: flex;
+    color: mediumvioletred;
+    justify-content: center;
+}
